@@ -1,2 +1,1 @@
-# xashfiles
-backup of Half-Life files only.
+### Half-Life files for xash (mobile only)
